@@ -1,0 +1,115 @@
+﻿@model IEnumerable<VCEventEase.Models.Booking>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<head>
+    <title>Booking List</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom, black, grey);
+            color: black;
+            margin: 0;
+            padding: 0;
+        }
+
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            padding: 20px;
+        }
+
+        .event {
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+            padding: 10px 10px;
+            margin: 2px auto;
+            width: 5px;
+            transition: background-color 0.3s, cursor 0.3s;
+            background-color: white;
+        }
+
+        .det {
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+            padding: 15px 30px;
+            margin: 5px;
+            transition: background-color 0.3s;
+        }
+
+            .det:hover {
+                background-color: lightblue;
+                color: black;
+            }
+
+        .card {
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 10px;
+            width: calc(33.333% - 40px);
+            box-sizing: border-box;
+            transition: transform 0.3s;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+            .card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            }
+
+            .card h3 {
+                margin-top: 0;
+                color: black;
+                font-size: 1.5rem; /* Increased font size */
+            }
+
+            .card p {
+                color: black;
+                margin: 10px 0;
+                font-size: 1.2rem; /* Increased font size */
+            }
+
+            .card a {
+                color: black;
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+                .card a:hover {
+                    text-decoration: underline;
+                }
+
+        .actions {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="font-weight:bold; text-align: center; font-size: 6rem; color: lightblue;">All Bookings</h1>
+    <h1 style="font-size: 24px; width: 60%; margin-top:20px; margin-bottom:10px" class="event">
+        <a asp-action="Create">Create New Booking</a>
+    </h1>
+    <div class="card-container">
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <h3 style="font-weight:bold">Booking ID: @Html.DisplayFor(modelItem => item.BookingId)</h3>
+                <p><strong>Start Date:</strong> @Html.DisplayFor(modelItem => item.Booking_Start_Date)</p>
+                <p><strong>End Date:</strong> @Html.DisplayFor(modelItem => item.Booking_End_Date)</p>
+                <p><strong>Event:</strong> @Html.DisplayFor(modelItem => item.Event.EventName)</p>
+                <p><strong>Venue:</strong> @Html.DisplayFor(modelItem => item.Venue.VenueName)</p>
+                <div class="actions">
+                    <a asp-action="Details" asp-route-id="@item.BookingId" class="det">Details</a>
+                </div>
+            </div>
+        }
+    </div>
+</body>

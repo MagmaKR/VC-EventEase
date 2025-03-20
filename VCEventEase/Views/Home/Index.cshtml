@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <title>Welcome to Event Ease</title>
+
+    <style>
+        body {
+            background: linear-gradient(to bottom, black, blue);
+            color: white;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+
+        .flex {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 50px;
+        }
+
+        #button {
+            width: auto;
+            border-radius: 20px;
+            font-size: 24px;
+            background-color: whitesmoke;
+            padding: 15px 30px;
+            margin: 10px;
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+            display: inline-block;
+            transition: transform 0.3s;
+        }
+
+        #button:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="text-center">
+        <h1 style="font-size: 200px;">EventEase</h1>
+        <p style="font-size: 2em;"> The Ultimate  <span style="color: deepskyblue;"> Venue Booking </span> Management System</p>
+    </div>
+    <div class="flex">
+        <div>
+            <a id="button" asp-controller="Event" asp-action="Index">Manage Events</a>
+            <a id="button" asp-controller="Bookings" asp-action="Index">Manage Bookings</a>
+            <a id="button" asp-controller="Venue" asp-action="ViewAll">Manage Venues</a>
+
+
+
+        </div>
+    </div>
+
+</body>

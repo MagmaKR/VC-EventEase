@@ -1,0 +1,117 @@
+﻿@model VCEventEase.Models.Venue
+@{
+    ViewData["Title"] = "Create";
+}
+<style>
+    body {
+        background: linear-gradient(to bottom, #000000, grey);
+        min-height: 100vh;
+        padding: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .form-header {
+        color: #87CEFA; /* Light blue */
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .form-container {
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        padding: 30px;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-control {
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 10px;
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .control-label {
+        font-weight: bold;
+        margin-bottom: 8px;
+        display: block;
+        color: #333;
+        font-size: 24px;
+    }
+
+    .text-danger {
+        color: #dc3545;
+        font-size: 14px;
+        margin-top: 5px;
+        display: block;
+    }
+
+    .btn-primary {
+        background-color: #0047AB;
+        border: none;
+        padding: 12px 24px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .btn-primary:hover {
+            background-color: #003380;
+        }
+
+    .back-link {
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        margin-top: 10px;
+        font-weight: 500;
+    }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+</style>
+<div class="container">
+    <h1 class="form-header" style="font-size:6rem; font-weight:bold; color:lightblue">Create Venue</h1>
+    <div class="form-container">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="VenueName" class="control-label">Venue Name</label>
+                <input asp-for="VenueName" class="form-control" />
+                <span asp-validation-for="VenueName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Location" class="control-label">Location</label>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Capacity" class="control-label">Capacity</label>
+                <input asp-for="Capacity" class="form-control" />
+                <span asp-validation-for="Capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageURL" class="control-label">Image URL</label>
+                <input asp-for="ImageURL" class="form-control" />
+                <span asp-validation-for="ImageURL" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+    <a asp-action="ViewAll" class="back-link">Back to List</a>
+</div>

@@ -1,0 +1,106 @@
+﻿@model VCEventEase.Models.Booking
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<style>
+    body {
+        background: linear-gradient(to bottom, black, blue);
+        min-height: 100vh;
+    }
+
+    .form-container {
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        padding: 25px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .page-title {
+        color: #343a40;
+        margin-bottom: 5px;
+    }
+
+    .page-subtitle {
+        color: #6c757d;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        padding: 8px 20px;
+    }
+
+        .btn-primary:hover {
+            background-color: #0069d9;
+            border-color: #0062cc;
+        }
+
+    .back-link {
+        display: inline-block;
+        margin-top: 15px;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<div class="container">
+    <h1 class="page-title" style="font-size:6rem; color:lightblue">Edit Booking</h1>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-container">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="BookingId" />
+
+                    <div class="form-group">
+                        <label asp-for="Booking_Start_Date" class="control-label"></label>
+                        <input asp-for="Booking_Start_Date" class="form-control" />
+                        <span asp-validation-for="Booking_Start_Date" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Booking_End_Date" class="control-label"></label>
+                        <input asp-for="Booking_End_Date" class="form-control" />
+                        <span asp-validation-for="Booking_End_Date" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="EventId" class="control-label">Event</label>
+                        <select asp-for="EventId" class="form-control" asp-items="ViewBag.EventName">
+                            <option value="">-- Select an Event --</option>
+                        </select>
+                        <span asp-validation-for="EventId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="VenueId" class="control-label">Venue</label>
+                        <select asp-for="VenueId" class="form-control" asp-items="ViewBag.VenueName">
+                            <option value="">-- Select a Venue --</option>
+                        </select>
+                        <span asp-validation-for="VenueId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+
+            <a asp-action="Index" class="back-link" style="font-size: 2em; color:white">Back to List</a>
+        </div>
+    </div>
+</div>

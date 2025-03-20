@@ -1,0 +1,123 @@
+﻿@model IEnumerable<VCEventEase.Models.Event>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<head>
+    <title>Event List</title>
+
+    <style>
+        body {
+            background: linear-gradient(to bottom, black, grey); 
+            color: black; 
+            margin: 0;
+            padding: 0;
+        }
+
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            padding: 20px;
+        }
+
+        .event {
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 20px;
+            padding: 10px 10px;
+            margin: 2px auto; 
+            width: 5px; 
+            transition: background-color 0.3s, cursor 0.3s;
+            background-color: white;
+        }
+
+
+
+        .det{
+            text-align:center;
+            border:2px solid black;
+            border-radius:20px;
+            padding: 15px 30px;
+            margin: 5px;
+            transition: background-color 0.3s, ;
+            
+        }
+
+			.det:hover {
+				background-color: lightblue;
+				color: black;
+				
+			}
+
+
+
+
+
+        .card {
+            background-color: white; /* White background for cards */
+            border-radius: 10px;
+            padding: 20px;
+            margin: 10px;
+            width: calc(33.333% - 40px); /* 3 cards per row */
+            box-sizing: border-box;
+            transition: transform 0.3s;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        }
+
+            .card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+            }
+
+            .card h3 {
+                margin-top: 0;
+                color: black; /* Blue heading */
+            }
+
+            .card p {
+                color: black; 
+                margin: 10px 0;
+            }
+
+            .card a {
+                color: black; 
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+                .card a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+
+<body>
+    <h1 style=" font-weight:bold; text-align: center; font-size: 6rem; color: lightblue ;">All current Events</h1>
+    <h1 style=" font-size: 24px; width: 60%; margin-top:20px; margin-bottom:10px" class="event">
+        <a asp-action="Create" asp-controller="Event">Create an Event</a>
+    </h1>
+
+
+    <div class="card-container">
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <p> Name: </p>
+                <h3 style="font-weight:bold">@Html.DisplayFor(modelItem => item.EventName)</h3>
+                <p> <strong>Description: </strong>@Html.DisplayFor(modelItem => item.Description)</p>
+                <p><strong>Date:</strong> @Html.DisplayFor(modelItem => item.EventDate)</p>
+                <p>
+                    <strong>Venue:</strong>
+                    @Html.DisplayFor(modelItem => item.Venue.VenueName)
+                </p>
+
+				<a asp-action="Details" asp-route-id="@item.EventID" class="det">Details</a>
+                   
+               
+               
+            </div>
+        }
+    </div>
+</body>
