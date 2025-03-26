@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -71,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|c:\\users\\keegan\\onedrive\\documents\\studies\\clouddev\\vceventease\\vceventease\\vceventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3174B51-E0DF-4093-9DB9-724CFCD95014}|VCEventEase\\VCEventEase.csproj|solutionrelative:vceventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +122,153 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:20:40.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T14:38:51.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:25:46.692Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "VCEventEase\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "VCEventEase\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:58:21.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Details.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Details.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T14:26:02.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Details.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Details.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Venue\\Details.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswH8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T10:57:33.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:17:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\ViewAll.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\ViewAll.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\ViewAll.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Venue\\ViewAll.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T14:09:47.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T14:17:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T14:01:33.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T14:32:57.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:37:31.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "VCEventEase\\Views\\Shared\\_Layout.cshtml",
@@ -135,150 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Details.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Details.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T14:26:02.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Index.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Index.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T13:20:40.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Index.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Index.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Event\\Index.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHMAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T14:38:51.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Delete.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Delete.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Venue\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T11:25:46.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Details.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Details.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Venue\\Details.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAswH8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T10:57:33.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Edit.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Edit.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Venue\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T11:17:25.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ViewAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\ViewAll.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\ViewAll.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\ViewAll.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Venue\\ViewAll.cshtml",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAswBkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T14:09:47.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Edit.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Edit.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Edit.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAmwF4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T14:17:29.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Create.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Create.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Event\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T14:01:33.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Details.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Details.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Event\\Details.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T14:32:57.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Create.cshtml",
-              "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Create.cshtml",
-              "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Create.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T13:37:31.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Bookings\\Delete.cshtml",
               "RelativeDocumentMoniker": "VCEventEase\\Views\\Bookings\\Delete.cshtml",
@@ -286,12 +289,11 @@
               "RelativeToolTip": "VCEventEase\\Views\\Bookings\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T14:08:29.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:08:29.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Venue\\Create.cshtml",
               "RelativeDocumentMoniker": "VCEventEase\\Views\\Venue\\Create.cshtml",
@@ -299,12 +301,11 @@
               "RelativeToolTip": "VCEventEase\\Views\\Venue\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T14:13:50.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T14:13:50.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "VCEventEase\\Views\\Home\\Index.cshtml",
@@ -312,12 +313,11 @@
               "RelativeToolTip": "VCEventEase\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T14:11:43.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T14:11:43.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Edit.cshtml",
               "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Edit.cshtml",
@@ -325,12 +325,11 @@
               "RelativeToolTip": "VCEventEase\\Views\\Event\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T16:56:31.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T16:56:31.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Views\\Event\\Delete.cshtml",
               "RelativeDocumentMoniker": "VCEventEase\\Views\\Event\\Delete.cshtml",
@@ -338,21 +337,7 @@
               "RelativeToolTip": "VCEventEase\\Views\\Event\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T16:57:21.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BookingsController.cs",
-              "DocumentMoniker": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Controllers\\BookingsController.cs",
-              "RelativeDocumentMoniker": "VCEventEase\\Controllers\\BookingsController.cs",
-              "ToolTip": "C:\\Users\\Keegan\\OneDrive\\Documents\\Studies\\CloudDev\\VCEventEase\\VCEventEase\\VCEventEase\\Controllers\\BookingsController.cs",
-              "RelativeToolTip": "VCEventEase\\Controllers\\BookingsController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAQwHYAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T13:58:21.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T16:57:21.415Z"
             },
             {
               "$type": "Document",
@@ -364,8 +349,7 @@
               "RelativeToolTip": "VCEventEase\\Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:14:03.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T15:14:03.862Z"
             },
             {
               "$type": "Document",
@@ -377,8 +361,7 @@
               "RelativeToolTip": "VCEventEase\\Models\\ApplicationDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T13:18:19.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T13:18:19.986Z"
             },
             {
               "$type": "Document",
@@ -390,8 +373,7 @@
               "RelativeToolTip": "VCEventEase\\Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T17:31:21.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T17:31:21.356Z"
             },
             {
               "$type": "Document",
@@ -403,8 +385,7 @@
               "RelativeToolTip": "VCEventEase\\Controllers\\VenueController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAowFgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T14:07:45.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T14:07:45.086Z"
             },
             {
               "$type": "Document",
@@ -428,8 +409,7 @@
               "RelativeToolTip": "VCEventEase\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:02:50.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:02:50.283Z"
             },
             {
               "$type": "Document",
