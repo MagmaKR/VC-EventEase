@@ -17,105 +17,103 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VCEventEase
 build_property.RootNamespace = VCEventEase
-build_property.ProjectDir = C:\Users\Keegan\OneDrive\Documents\Studies\CloudDev\VCEventEase\VCEventEase\VCEventEase\
+build_property.ProjectDir = /Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Keegan\OneDrive\Documents\Studies\CloudDev\VCEventEase\VCEventEase\VCEventEase
+build_property.MSBuildProjectDirectory = /Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Bookings/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Bookings/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Bookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Bookings/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Bookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Bookings/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRWRpdC5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Bookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Bookings/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcSW5kZXguY3NodG1s
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZ3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Event/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcQ3JlYXRlLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Event/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Event/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRGVsZXRlLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Event/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Event/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRGV0YWlscy5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Event/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Event/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRWRpdC5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Event/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Event/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/ShowAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd0FsbC5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/ShowAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvd0FsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Venue/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVcQ3JlYXRlLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Venue/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWUvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Venue/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVcRGVsZXRlLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Venue/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWUvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Venue/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVcRGV0YWlscy5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Venue/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWUvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Venue/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVcRWRpdC5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Venue/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWUvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Venue/ViewAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVcVmlld0FsbC5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Venue/ViewAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVudWUvVmlld0FsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Keegan/OneDrive/Documents/Studies/CloudDev/VCEventEase/VCEventEase/VCEventEase/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-i7y176a7j2
+[/Users/keeganrees/Desktop/VCEventEaseCD/VCEventEase/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m15zia8bmu
